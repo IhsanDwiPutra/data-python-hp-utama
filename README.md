@@ -28,3 +28,6 @@ Sebagian besar kode di sini mengikuti tutorial atau latihan mandiri. Struktur da
 ## 🔗 License
 
 Repositori ini bersifat pribadi untuk dokumentasi belajar. Bebas digunakan sebagai referensi belajar pribadi, tapi tidak untuk penggunaan komersial tanpa izin.
+
+---
+Repo Dibuat : Minggu, 20 Juli 2025
