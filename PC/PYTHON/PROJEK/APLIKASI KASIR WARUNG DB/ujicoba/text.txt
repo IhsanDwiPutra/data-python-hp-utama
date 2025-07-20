@@ -1,0 +1,2 @@
+buat aplikasi kasir 1 daftar biasa
+ke 2 buat pakai login dan daftar
