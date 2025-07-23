@@ -1,6 +1,6 @@
 import random
 
-angka_rahasia = random.randint(1,20)
+angka_rahasia = random.randint(1, 240000)
 tebakan = 0
 jumlah_tebakan = 0
 
